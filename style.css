@@ -17,8 +17,8 @@ h1{
     background-position: center;
 }
 section{
-    height: 100px;
-    margin-bottom: 100px;
+    height: 500px;
+    margin-bottom: 200px;
 }
 .half-width img{
     width: 100%;
@@ -45,7 +45,18 @@ section{
     background-position: center;
 }
 .work-section{
-    background-image: url("images/latest-work-bg.png");
+    background-image: red;
     background-repeat: no-repeat;
     background-position: center;
+}
+.letest-work{
+    text-align: center;
+}
+.work-img-area{
+    width: 30%;
+    float: left;
+    padding: 0px 20px;
+}
+.work-img-area img{
+    width: 100%;
 }
