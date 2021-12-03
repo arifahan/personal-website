@@ -18,7 +18,7 @@ h1{
 }
 section{
     height: 500px;
-    margin-bottom: 200px;
+    margin-bottom: 0px;
 }
 .half-width img{
     width: 100%;
@@ -53,10 +53,25 @@ section{
     text-align: center;
 }
 .work-img-area{
-    width: 30%;
+    width: 25%;
     float: left;
     padding: 0px 20px;
 }
 .work-img-area img{
     width: 100%;
+}
+.alige-center{
+text-align: center;
+}
+.cotation{
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+}
+.hero-address{
+    background-color: rgb(218, 57, 164);
+    margin: 0% 30%;
+    padding: 5px 50px;
+    color: white;
+    border-radius: 7px;
 }
