@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+    padding-top: 100px;
+}
+.half-width{
+    margin-left: 5%;
+    width: 40%;
+    float: left;
+}
+.header-section{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+section{
+    height: 100px;
+    margin-bottom: 100px;
+}
+.half-width img{
+    width: 100%;
+}
+.name-color{
+    font-size: 55px;
+    color: #e23767;
+}
+.hire-me {
+    color: white;
+    background: #e23767;
+    padding: 8px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.full-width{
+    margin-left: 5%;
+    width: 100%;
+    text-align: center;
+}
+.biography-section{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.work-section{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
